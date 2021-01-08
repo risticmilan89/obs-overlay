@@ -37,11 +37,11 @@ body {
 }
 
 .main {
-  border: solid green 1px;
+  /* border: solid green 1px; */
   animation-name: anim1;
 }
 .fake {
-  border: solid purple 1px;
+  /* border: solid purple 1px; */
   animation-name: anim2;
 }
 

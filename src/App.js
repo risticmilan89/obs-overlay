@@ -1,19 +1,9 @@
-import create from "zustand";
 import axios from "axios";
-import { useEffect } from "react";
-
-const useStore = create((set) => ({
-  users: [],
-  donations: [],
-  setUsers: (users) => set((state) => ({ ...state, users })),
-  setDonations: (donations) => set((state) => ({ ...state, donations })),
-}));
+import { useEffect, useState } from "react";
 
 const App = () => {
-  const users = useStore((state) => state.users);
-  const donations = useStore((state) => state.donations);
-  const setUsers = useStore((state) => state.setUsers);
-  const setDonations = useStore((state) => state.setDonations);
+  const [users, setUsers] = useState([]);
+  const [donations, setDonations] = useState([]);
 
   const getUsersAxios = () => {
     var options = {
