@@ -16,3 +16,54 @@ body {
   color: #fff;
   font-family: "Open Sans", sans-serif;
 }
+
+.content-wrapper {
+  height: 40px;
+  overflow: hidden;
+  position: relative;
+}
+.content-wrapper-inner {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 40px;
+  min-width: 1%;
+  white-space: nowrap;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.main {
+  border: solid green 1px;
+  animation-name: anim1;
+}
+.fake {
+  border: solid purple 1px;
+  animation-name: anim2;
+}
+
+.user {
+  display: inline-block;
+  margin-right: 32px;
+}
+
+@keyframes anim1 {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes anim2 {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
