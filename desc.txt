@@ -1,0 +1,21 @@
+Grafana: Grafana is an open-source analytics and monitoring platform that helps visualize and analyze data from various sources, particularly useful for tracking system and application performance metrics.
+
+Jenkins: Jenkins is a popular open-source automation server that enables continuous integration and continuous delivery (CI/CD) of software projects, automating the building, testing, and deployment processes.
+
+Octopus: Octopus Deploy is a deployment automation tool specifically designed for .NET applications, simplifying the process of releasing software across various environments.
+
+SonarQube: SonarQube is a static code analysis tool used to detect and manage code quality issues in software projects, providing insights into code vulnerabilities, bugs, and technical debt.
+
+Nexus IQ: Nexus IQ is a component intelligence platform that helps developers identify and mitigate security and license risks in software components, ensuring better management of dependencies.
+
+Nexus Repository: Nexus Repository is a repository manager that enables efficient storage and distribution of software components, allowing teams to manage their artifacts and dependencies effectively.
+
+Harbor: Harbor is an open-source container registry that securely stores and distributes Docker images, enhancing container management and deployment within an organization.
+
+Coder: Coder (formerly known as Code-server) is a tool that allows you to run a development environment accessible through a web browser, enabling remote coding and collaboration.
+
+Rancher: Rancher is a container management platform that facilitates the deployment, scaling, and orchestration of containers and Kubernetes clusters in a user-friendly manner.
+
+Komodor: Komodor is a platform that provides observability and debugging capabilities for Kubernetes applications, assisting in understanding and troubleshooting complex microservices environments.
+
+AWS: AWS (Amazon Web Services) is a comprehensive cloud computing platform provided by Amazon, offering a vast range of services like computing, storage, databases, machine learning, and more, catering to various business needs.
