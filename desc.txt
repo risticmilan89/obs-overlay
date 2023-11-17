@@ -19,3 +19,11 @@ Rancher: Experience the future of container management with Rancher—a comprehe
 Komodor: Illuminate the path to troubleshooting excellence in Kubernetes environments with Komodor—an observability and debugging powerhouse tailored for the intricacies of microservices.
 
 AWS: Propel your business into the cloud era with AWS, Amazon's dynamic cloud computing platform offering a rich tapestry of services tailored to meet the unique needs of modern enterprises.
+
+Sentry: Dive into the realm of error monitoring and troubleshooting with Sentry—a vigilant platform that meticulously tracks and monitors software errors, empowering developers to swiftly tackle issues.
+
+Vault: Fortify your infrastructure against security threats with Vault—an open-source powerhouse that not only protects sensitive data but also expertly manages secrets, ensuring a robust security posture.
+
+GitHub App: Revolutionize developer collaboration in repositories with the GitHub App—a cutting-edge tool that enhances Git-based workflows, fostering seamless cooperation and code development.
+
+GitHub Investment: Take control of finance-exclusive repository management with GitHub Investment—a specialized solution tailored to the unique needs of financial sectors, ensuring secure and efficient code repositories for financial applications.
